@@ -34,7 +34,7 @@ return {
     opts = {
       ensure_installed = {
         "lua-language-server", "stylua",
-        "html-lsp", "css-lsp" , "prettier", "gopls"
+        "html-lsp", "css-lsp" , "prettier", "gopls", "golangci-lint", "gofumpt"
       },
     },
   },
